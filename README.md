@@ -1,7 +1,7 @@
 ### Hi there, I'm Michael - aka [The M.](http://themdev.pl) 👋 
 
-[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
+[![Website](https://img.shields.io/website?label=TheMDev.pl&style=for-the-badge&url=http%3A%2F%2Fthemdev.pl)](http://themdev.pl)
+[![Twitter Follow](https://img.shields.io/twitter/follow/themdevpl?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FTheMfromYT&screen_name=themdevpl)
 
 ## I'm a Student and a Programmer!
 <!--
